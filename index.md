@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## PPGEC
 
-You can use the [editor on GitHub](https://github.com/wmpjrufg/PPGEC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este é um local onde os alunos do PPGEC podem solicitar pedidos ou fomrulários para:
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
